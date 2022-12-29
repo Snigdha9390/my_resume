@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>hello</title>
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    
+
+	<style type="text/css">
+    *{
+      font-family: sans-serif;
+    }
+
+  h3{
+    color: blue;
+  }
+		.container{ max-width: 990px;
+			height: 380px;
+			background-color: white;
+      margin: auto;
+      text-align: left;
+      
+    
+        }
+        fieldset{
+        	margin-right:10px ;
+        	margin-left: 10px;
+        }
+       footer{
+
+       	margin-top: 10px;
+       	height: 300px;
+       }
+       .footer_1{
+        background-color: whitesmoke;
+       }
+       #heading{
+        color: white;
+       }
+
+	</style>
+</head>
+<body>
+
+	<div class="container" style="background-color: navy;">
+		<fieldset style="margin-bottom: 10px; color: white;">
+      <legend><h3 id="heading"><b>Personal Details</b></h3></legend>
+      
+      <div class="row">
+            <div class="col-sm-10 services-column">
+
+      <p><b>Name:</b>SEVANDRA SNIGDHA SUHASINI</p>
+      <p><b>Father's Name:</b>SEVANDRA SATHI BABU</p> 
+      <p><b>Date Of Birth:</b>15-10-2001</p> 
+      <p><b>Nationality:</b>Indian</p>
+       <p><b>Communication Address:</b>3-16A-45/1,Burma Colony ,RTC complex backside,KAKINADA,533001,Kakinada District ,Andhra Pradesh</p> 
+
+ 
+
+      <p><b>Mobile Number:</b>9390795054</p>
+      <p><b>Email id:</b>snigdhasevandra@gmail.com</p>
+    </div>
+      <div class="col-sm-2 services-column">
+         <img src="C:\Users\snigd\Downloads\snigdha passport size photo.jpg" class="img-fluid img-responsive" >
+              <p class="services_content"></p>
+      </div>
+    </div>
+    </fieldset>
+    <br>
+     
+                        <nav style="width:30%;
+                                      height: 800px;
+                                      background-color:whitesmoke;
+                                      float: left;">
+                                        <h3><b>Technical Skills</b></h3>
+                                         <p>C,C++,Python,HTML,CSS
+                                          </p>
+                                         
+
+                                         
+
+                                        
+                                        <h3><b>Languages</b></h3>
+                                        <li>Telugu</li>
+                                        <li>English</li>
+                                          
+                                          <h3><b>Hobbies</b></h3>
+                                        <li>Painting</li>
+                                        <li>Sketching</li>
+                                         
+                                          <li>Social Networking</li>
+                                          <h3><b>Extracurricular Activity</b></h3>
+                                          <li>Active Volunteering in college events like<b>"AURORA 2K22","ANUSANDHAN 2K20"</b></li>
+                                          <li>Leadership Activities in School Events</li>
+                                          <li>Participated in college activites such as PPT,Art gallery,Elucution,Debate</li>
+                                          
+
+                                           </nav>
+                        <aside style="width:70%;
+                                      height: 800px;
+
+                                      float: left;
+                                      background-color: white;">
+                                        <table class="table table-bordered" border="2" align="left" width="auto"  >
+                                          <h3 align="center" ><b>Academics</b></h3>
+                                        
+                                          <tr>
+                                            <th>Qualification</th>
+                                            <th>Institution</th>
+                                            <th>Stream</th>
+                                            <th>Year Of Passing</th>
+                                            <th>CGPA</th>
+                                          </tr>
+                                          <tr>
+                                            <td>B.Tech</td>
+                                            <td>Andhra University College of Engineering For Women,Visakapatnam,Andhra Pradesh</td>
+                                            <td>CSSE</td>
+                                            <td>2023 Currently Pursuing</td>
+                                            <td>7.82(till date)</td>
+                                          </tr>
+                                          <tr>
+                                            <td>Intermediate</td>
+                                            <td>Narayana Junior College ,kakinada,Andhra Pradedsh</td>
+                                            <td>MPC</td>
+                                            <td>2019</td>
+                                            <td>9.73</td>
+                                          </tr>
+                                          <tr>
+                                            <td>Matriculation</td>
+                                            <td>St.Anthony's English Medium High School</td>
+                                            <td>SSC</td>
+                                            <td>2017</td>
+                                            <td>9.8</td>
+                                          </tr>
+                                        </table>
+                                         <h3 align="center"><b>Workshops</b></h3>
+                                      <p align="center">Web Development Workshop -My Captain</p>
+                                      <p align="center">Artificial Intelligence/Machine Learning Workshop</p>
+                                      <h3 align="center"><b>Projects</b></h3>
+                                      <ol >
+                                        
+                                        <h4 align="center">Web Development</h4>
+                                        <ul>
+                                          <li>Student Information Portal Using HTML,CSS</li>
+                                          <li>Online Library Management system Using HTML,CSS,PHP</li>
+                                         
+                                          <li>Done My Resume using HTML,CSS (Mini-Project)</li>
+                                        </ul>
+
+                                      </ol>
+                                     
+                                      <h3 align="center"><b>Strengths</b></h3>
+                                         <p text align="center">Good communication skills,Hard working,Dedicated,Fast learner,Self motivated,Ability to mingle in the group and adaptive to any kind of situation </p>
+                                       
+                                      </aside>
+                                      
+                                    <footer class="footer_1">
+                                      <h3><b>Declaration</b></h3>
+                                      <p>I hereby declare that the information, furnished above is true to the best of my knowledge. I will be highly thankful if I were given an opportunity to prove my worthiness to the highest satisfaction of my superiors.</p>
+                                      <p><h3><b color="blue">Place:</b></h3>VISAKAPATNAM</p>
+                                    </footer>
+                                    
+                                    
+                        
+
+                                        
+                                      
+                                        
+                                               
+
+
+                                      
+                                    
+
+
+	</div>
+
+
+</body>
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy" crossorigin="anonymous"></script>
+</html>
